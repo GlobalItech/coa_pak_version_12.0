@@ -21,7 +21,7 @@
     Contact us for any need of customisation or chart of account .
     """,
 
-    'author': 'Itech Resources,Steigend IT Solutions',
+    'author': 'Itech Resources',
     'website': 'http://itechresources.net/',
     'category': 'Accounting &amp; Finance',
     'license': "AGPL-3",
