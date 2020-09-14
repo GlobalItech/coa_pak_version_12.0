@@ -7,7 +7,7 @@
 #
 ##############################################################################
 {
-    'name': "Pakistan Chart of Account",
+    'name': "Pakistan COA",
     'summary': """
         Adds Parent account and ability to open chart of account list view based on the date and moves""",
     'description': """
